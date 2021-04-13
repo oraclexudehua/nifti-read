@@ -1,3 +1,5 @@
+这个项目是fork自https://github.com/rii-mango/NIFTI-Reader-JS
+原项目使用browserify打包，此次修改了打包方式，使用rollup打包
 # NIFTI-Reader-JS
 A JavaScript [NIfTI](http://nifti.nimh.nih.gov/) file format reader.  This reader supports both NIfTI-1 and NIfT1-2 file formats, both compressed (.nii.gz) and uncompressed (.nii).
 
